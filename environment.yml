@@ -1,0 +1,9 @@
+name: yt
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - ipykernel
+prefix: C:\Users\alish\anaconda3\envs\yt
