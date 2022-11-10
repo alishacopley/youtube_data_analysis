@@ -16,6 +16,18 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
     * pip install matplotlib
     * pip instal numpy
     * Install Jupyter Notebook
-    * *OR* simply install Anaconda Navigator
+    * **OR** simply install Anaconda Navigator
 
 * Finally, run the Jupyter Notebook: youtube_data_analysis.ipynb
+
+**Features**
+
+1. I read in two CSV data files using pd.read_csv
+
+2. I cleaned my data by removing unneeded columns of data within the dataframe, renaming columns to make the data more easily understood, and then dropped any null values from the data. I also merged the two CSV files into a single dataframe using pandas merge and then did an outer join on the data.
+
+3. I used matplotlib to present my analysis of the data. Here I created a pie chart to show how frequently comments of different sentiments were left under the videos. Then I created a bar chart to show how often those different types of comments received likes. After that I created two different bar charts regarding topics of videos. One was to see what video topics were most popular and another was to see what video topics received the most comments.
+
+4. I utilized a virtual enviroment for this project and install the packages I needed in the environment. After I exported that information into an environment.yml file and put that in my repository.
+
+5. Finally, I annotated my code within my Jupyter Notebook using markdown cells and created this README file.
