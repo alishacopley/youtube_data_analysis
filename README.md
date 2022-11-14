@@ -8,17 +8,19 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 
 **Set-up**
 
-* Clone my git repository and into its directory
+* Clone my git repository from GitHub.
     * git clone https://github.com/alishacopley/youtube_data_analysis.git
 
-* To run this, you will need to:
-    * pip install pandas
-    * pip install matplotlib
-    * pip instal numpy
-    * Install Jupyter Notebook
-    * **OR** simply install Anaconda Navigator
+* I used conda for this project. Create a conda virtual environment using *conda create --name NEWENV* (replace NEWENV with the name of your choice).
+* You will be asked if you'd like to proceed and to type in y/n. Type y and proceed.
+* Use *conda activate NEWENV* to activate your new virtual environment. (Again, please replace NEWENV with your chosen name)
 
-* Finally, run the Jupyter Notebook: youtube_data_analysis.ipynb
+* To run this, you will need to install the packages listed in the environment.yml file. These packages are under *dependencies*. Use *conda install*
+    * For example: *conda install python*
+    * Repeat until all packages are installed.
+
+* Open the Jupyter Notebook: youtube_data_analysis.ipynb
+    * Run the notebook.
 
 **Features**
 
