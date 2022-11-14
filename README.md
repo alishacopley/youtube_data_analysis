@@ -15,7 +15,7 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 * You will be asked if you'd like to proceed and to type in y/n. Type y and proceed.
 * Use *conda activate NEWENV* to activate your new virtual environment. (Again, please replace NEWENV with your chosen name)
 
-* To run this, you will need to install the packages listed in the environment.yml file. These packages are under *dependencies*. Use *conda install*
+* To run this, you will need to install the packages listed in the environment.yml file. These packages are under *dependencies*. Use *conda install*.
     * For example: *conda install python*
     * Repeat until all packages are installed.
 
