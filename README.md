@@ -20,6 +20,7 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
     * Repeat until all packages are installed.
 
 * Open the Jupyter Notebook: youtube_data_analysis.ipynb
+    * Make sure that the virtual environment you created is selected.
     * Run the notebook.
 
 **Features**
