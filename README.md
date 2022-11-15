@@ -31,6 +31,6 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 
 3. I used matplotlib to present my analysis of the data. Here I created a pie chart to show how frequently comments of different sentiments were left under the videos. Then I created a bar chart to show how often those different types of comments received likes. After that I created two different bar charts regarding topics of videos. One was to see what video topics were most popular and another was to see what video topics received the most comments.
 
-4. I utilized a virtual enviroment for this project and install the packages I needed in the environment. After I exported that information into an environment.yml file and put that in my repository.
+4. I utilized a virtual enviroment for this project and install the packages I needed in the environment. Afterward, I exported that information into an environment.yml file and put that in my repository.
 
 5. Finally, I annotated my code within my Jupyter Notebook using markdown cells and created this README file.
