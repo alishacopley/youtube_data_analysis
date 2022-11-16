@@ -34,3 +34,7 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 4. I utilized a virtual enviroment for this project and install the packages I needed in the environment. Afterward, I exported that information into an environment.yml file and put that in my repository.
 
 5. Finally, I annotated my code within my Jupyter Notebook using markdown cells and created this README file.
+
+**Change from Project Plan**
+
+I would like to make a note that this project is different from the one I submitted for my project plan. Ultimately, after working on the initial project, I realized there was no way for me to merge and join the two datasets properly. This resulted in a change of topic for the project.
