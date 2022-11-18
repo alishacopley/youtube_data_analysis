@@ -10,6 +10,8 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 
 * Clone my git repository from GitHub.
     * git clone https://github.com/alishacopley/youtube_data_analysis.git
+    
+* Move into the directory where the project is.
 
 * I used conda for this project. Create a conda virtual environment from my environment.yml file using 
 
