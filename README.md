@@ -11,13 +11,11 @@ The data used for this project is from [Kaggle](https://www.kaggle.com/datasets/
 * Clone my git repository from GitHub.
     * git clone https://github.com/alishacopley/youtube_data_analysis.git
 
-* I used conda for this project. Create a conda virtual environment using *conda create --name NEWENV* (replace NEWENV with the name of your choice).
-* You will be asked if you'd like to proceed and to type in y/n. Type y and proceed.
-* Use *conda activate NEWENV* to activate your new virtual environment. (Again, please replace NEWENV with your chosen name)
+* I used conda for this project. Create a conda virtual environment from my environment.yml file using 
 
-* To run this, you will need to install the packages listed in the environment.yml file. These packages are under *dependencies*. Use *conda install*.
-    * For example: *conda install python*
-    * Repeat until all packages are installed.
+    *conda env create -f environment.yml* 
+    
+* Activate the created virtual environment using *conda activate yt*
 
 * Open the Jupyter Notebook: youtube_data_analysis.ipynb
     * Make sure that the virtual environment you created is selected.
